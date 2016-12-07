@@ -178,12 +178,11 @@ header .inbody .navbar-brand span.subhead {
     padding-top: 3%
 }
 
-@media only screen
-and (max-width: 660px) {
-  .black h1  {
-    font-size: 200%;
-    padding-top: 15%;
-  }
+@media screen and (max-width: 660px) {
+    .black h1 {
+      font-size: 200%;
+      padding-top: 15%;
+    }
 }
 
 .black p {
