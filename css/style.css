@@ -181,7 +181,7 @@ header .inbody .navbar-brand span.subhead {
 @media only screen
 and (max-width: 660px) {
   .black h1  {
-    font-size: 400%;
+    font-size: 200%;
     padding-top: 15%;
   }
 }
