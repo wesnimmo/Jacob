@@ -169,6 +169,12 @@ header .inbody .navbar-brand span.subhead {
   left: 14%;
 }
 
+@media screen and (max-width: 660px) {
+    .black {
+      bottom: -148px;
+    }
+}
+
 .black h1 {
     text-align: center;
     color: white;
@@ -180,7 +186,7 @@ header .inbody .navbar-brand span.subhead {
 
 @media screen and (max-width: 660px) {
     .black h1 {
-      font-size: 200%;
+      font-size: 400%;
       padding-top: 15%;
     }
 }
